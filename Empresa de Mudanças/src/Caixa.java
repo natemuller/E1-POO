@@ -37,3 +37,7 @@ public class Caixa {
         System.out.println("Valor total: R$ " + valorTotal);
     }
 }
+
+// Nome completo: Natan de Aragão Müller
+// Auto-avaliação: 8.5
+// Comentário sobre desempenho: Creio que falte fluidez na hora de escrever o código, muitos erros desnecessários de sintaxe, estou satisfeito com o resultado. 
